@@ -1,2 +1,1 @@
-#0x00-Es6_basics
-
+## 0x00. ES6 Basics
